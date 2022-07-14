@@ -1,4 +1,4 @@
-## This project is an example of how and when use a "Command" pattern.
+## This project is an example of how and when use a "Builder" pattern.
 
 ### Install Dependencies
 > npm install
